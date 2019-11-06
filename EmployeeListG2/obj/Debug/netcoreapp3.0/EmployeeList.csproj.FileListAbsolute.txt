@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.AssemblyInfo.cs
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.exe
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.deps.json
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.runtimeconfig.json
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.dll
+C:\Users\HP\source\repos\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.pdb
+C:\Users\HP\source\repos\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.dll
+C:\Users\HP\source\repos\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.pdb

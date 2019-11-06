@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.exe
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.deps.json
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.runtimeconfig.json
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.dll
+C:\Users\HP\source\repos\BankG3\bin\Debug\netcoreapp3.0\BankG3.pdb
+C:\Users\HP\source\repos\BankG3\obj\Debug\netcoreapp3.0\BankG3.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BankG3\obj\Debug\netcoreapp3.0\BankG3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BankG3\obj\Debug\netcoreapp3.0\BankG3.AssemblyInfo.cs
+C:\Users\HP\source\repos\BankG3\obj\Debug\netcoreapp3.0\BankG3.dll
+C:\Users\HP\source\repos\BankG3\obj\Debug\netcoreapp3.0\BankG3.pdb
